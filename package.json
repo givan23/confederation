@@ -1,0 +1,19 @@
+{
+  "name": "confederation",
+  "version": "1.0.0",
+  "description": "conf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/givan23/confederation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/givan23/confederation/issues"
+  },
+  "homepage": "https://github.com/givan23/confederation#readme"
+}
